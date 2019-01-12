@@ -5,7 +5,7 @@ import java.util.Collection;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.RequestScoped;
 
-import com.tecsup.javawebavanzado.sesion03.exception.DAOExcepcion;
+import com.tecsup.javawebavanzado.sesion03.excepcion.DAOExcepcion;
 import com.tecsup.javawebavanzado.sesion03.modelo.Categoria;
 import com.tecsup.javawebavanzado.sesion03.modelo.Producto;
 import com.tecsup.javawebavanzado.sesion03.negocio.GestionCategorias;
